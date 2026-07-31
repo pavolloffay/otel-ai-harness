@@ -21,11 +21,12 @@ The team develops and maintains **Red Hat build of OpenTelemetry** — a support
 
 ### Team Members
 
-| Name              | Role      | GitHub        |
-|-------------------|-----------|---------------|
-| Pavol Loffay      | Engineer  | @pavolloffay  |
-| Benedikt Bongartz | Engineer  | @frzifus      |
-| Ozzy Walsh        | Engineer  | @ozzywalsh    |
+| Name              | Role               | GitHub        |
+|-------------------|--------------------|---------------|
+| Pavol Loffay      | Engineer           | @pavolloffay  |
+| Benedikt Bongartz | Engineer           | @frzifus      |
+| Ozzy Walsh        | Engineer           | @ozzywalsh    |
+| Ishwar Kanse      | (Quality) Engineer | @IshwarKanse |
 
 ### Red Hat Slack
 - Team: `#team-ocp-tracing`
